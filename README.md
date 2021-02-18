@@ -10,7 +10,7 @@ Sempre aberto a novos desafios! ⚡
 
 Me encontre 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusssfigueiroa/)](https://www.linkedin.com/in/viniciusssfigueiroa/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-efefef?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vinissfigueiroa@gmail.com)](mailto:vinissfigueiroa@gmail.com/) 
 
 <!--
