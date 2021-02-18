@@ -13,9 +13,6 @@ Me encontre 👇🏼
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusssfigueiroa/)](https://www.linkedin.com/in/viniciusssfigueiroa/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-efefef?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vinissfigueiroa@gmail.com)](mailto:vinissfigueiroa@gmail.com/)
 
-<a href="https://www.linkedin.com/in/viniciusssfigueiroa/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)" />
-</a>
 <!--
 **vinixiii/vinixiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
