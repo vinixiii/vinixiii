@@ -1,8 +1,8 @@
 # Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">
 
-Meu nome é Vinícius Figueiroa 🙋🏻‍♂️, tenho 21 anos, e sou apaixonado por desenvolver soluções por meio da programação! ❤️
+Meu nome é Vinícius Figueiroa 🙋🏻‍♂️, tenho 21 anos, e sou apaixonado por desenvolver soluções através da programação!
 
-🐱‍💻 Estou cursando desenvolvimento de sistema pelo SENAI Informática, mas minha busca por conhecimento não se limita apenas a este curso. Tenho grande interesse em aprender novas tecnologias, e também procuro sempre melhorar minhas habilidades naquelas que já possuo algum conhecimento. 🚀
+Atualmente estou cursando desenvolvimento de sistema pelo SENAI Informática, mas minha busca por conhecimento não se limita apenas a este curso. Sempre procuro aprender novas tecnologias, e aprimorar minhas habilidades naquelas que já possuo conhecimento 🚀
 
 Sempre aberto a novos desafios! ⚡
 
