@@ -1,17 +1,32 @@
-# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">
+# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
 
-Meu nome é Vinícius Figueiroa 🙋🏻‍♂️, tenho 21 anos, e sou apaixonado por desenvolver soluções através da programação!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
 
-Atualmente estou cursando desenvolvimento de sistema pelo SENAI Informática, mas minha busca por conhecimento não se limita apenas a este curso. Sempre procuro aprender novas tecnologias, e aprimorar minhas habilidades naquelas que já possuo conhecimento 🚀
+Me chamo Vinícius, tenho 21 anos, e sou apaixonado por desenvolver soluções através da programação! 💜
+  
+Atualmente estou fazendo o curso técnico de desenvolvimento de sistema pelo SENAI Informática, mas minha busca por conhecimento não se limita apenas a este curso, estou em constante evolução, sempre em busca do próximo nível! 🚀
+<br><br>
+🔎 Procurando novas oportunidades <br>
+📍   São Paulo, SP - Brasil <br>
 
-Sempre aberto a novos desafios! ⚡
+## Tecnologias que possuo conhecimento 🛠
+  
+![HTML5](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-📍 São Paulo, SP - Brasil
+![CSharp](https://img.shields.io/badge/CSharp-9B4F97?style=for-the-badge&logo=CSharp&logoColor=67217A)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 
-Me encontre 👇🏼
+![.NET](https://img.shields.io/badge/SQL Server-f1f1f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927) <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusssfigueiroa/)](https://www.linkedin.com/in/viniciusssfigueiroa/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-efefef?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vinissfigueiroa@gmail.com)](mailto:vinissfigueiroa@gmail.com/)
+## Me econtre por aqui 👇🏼
+
+Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo no LinkedIn 😉
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vinissfigueiroa@gmail.com)](mailto:vinissfigueiroa@gmail.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusssfigueiroa/)](https://www.linkedin.com/in/viniciusssfigueiroa/)
 
 <!--
 **vinixiii/vinixiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
