@@ -21,7 +21,11 @@ Atualmente estou fazendo o curso técnico de desenvolvimento de sistema pelo SEN
 
 ![.NET](https://img.shields.io/badge/SQL Server-f1f1f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927) <br>
 
-## Me econtre por aqui 👇🏼
+## Meus status 📃
+
+<img height="172px" src="https://github-readme-stats.vercel.app/api?username=vinixiii&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&theme=buefy" /><img height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinixiii&layout=compact&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&langs_count=6&theme=buefy" /> <br>
+
+## Onde me encontrar 👇🏼
 
 Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo no LinkedIn 😉
   
