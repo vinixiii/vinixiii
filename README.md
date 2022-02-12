@@ -1,12 +1,11 @@
 # Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280px" align="right">
 
-Me chamo Vinícius, tenho 21 anos, e sou apaixonado por desenvolver soluções através da programação! 💜
-  
-Atualmente estou fazendo o curso técnico de desenvolvimento de sistema pelo SENAI Informática, mas minha busca por conhecimento não se limita apenas a este curso, estou em constante evolução, sempre em busca do próximo nível! 🚀
+Me chamo Vinícius, tenho 22 anos, e sou apaixonado por desenvolver soluções através da programação! 💜
+
+Sou técnico em desenvolvimento de sistemas formado pelo SENAI Informática e estou em constante evolução, sempre em busca do próximo nível! 🚀
 <br><br>
-🔎 Procurando novas oportunidades <br>
 📍   São Paulo, SP - Brasil <br>
 
 ## Tecnologias que possuo conhecimento 🛠
@@ -15,6 +14,7 @@ Atualmente estou fazendo o curso técnico de desenvolvimento de sistema pelo SEN
 ![CSS3](https://img.shields.io/badge/CSS-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=32363E)
 
 ![CSharp](https://img.shields.io/badge/CSharp-9B4F97?style=for-the-badge&logo=CSharp&logoColor=67217A)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
