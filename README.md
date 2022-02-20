@@ -27,7 +27,7 @@ Sou técnico em desenvolvimento de sistemas formado pelo SENAI Informática e es
 
 ## Onde me encontrar 👇🏼
 
-Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo no LinkedIn 😉
+Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo no LinkedIn 😉😎
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vinissfigueiroa@gmail.com)](mailto:vinissfigueiroa@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusssfigueiroa/)](https://www.linkedin.com/in/viniciusssfigueiroa/)
