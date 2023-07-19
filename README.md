@@ -1,14 +1,16 @@
-# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">
+# Olá! 👋🏻
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280" align="right">
 
-Me chamo Vinícius, tenho 22 anos, e sou apaixonado por desenvolver soluções através da programação! 💜
+Sou um desenvolvedor de software dedicado, especializado em front-end web e mobile, com foco em React JS e React Native. 🔭
 
-Sou técnico em desenvolvimento de sistemas formado pelo SENAI Informática e estou em constante evolução, sempre em busca do próximo nível! 🚀
+Estou em constante evolução, sempre procurando aprender novas tecnologias, e aprimorar minhas habilidades naquelas que já possuo conhecimento. 🌱
+
+Gosto bastante de videogame, música e aprender novos idiomas. ⚡️
 <br><br>
 📍   São Paulo, SP - Brasil <br>
 
-## Tecnologias que possuo conhecimento 🛠
+## Tecnologias que possuo conhecimento 🛠️
   
 ![HTML5](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -21,13 +23,13 @@ Sou técnico em desenvolvimento de sistemas formado pelo SENAI Informática e es
 
 ![.NET](https://img.shields.io/badge/SQL Server-f1f1f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927) <br>
 
-## Meus status 📃
+## Estatísticas 📃
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=vinixiii&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&theme=buefy" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinixiii&layout=compact&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&langs_count=6&theme=buefy" /> <br>
 
-## Onde me encontrar 👇🏼
+## Onde me encontrar 📫
 
-Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo no LinkedIn 😉😎
+Fique à vontade para entrar em contato comigo por email ou pelo LinkedIn. 💬
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vinissfigueiroa@gmail.com)](mailto:vinissfigueiroa@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusssfigueiroa/)](https://www.linkedin.com/in/viniciusssfigueiroa/)
