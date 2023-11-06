@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280" align="right">
 
-Sou um desenvolvedor de software dedicado, especializado em front-end web e mobile, com foco em React JS e React Native. 🔭
+Sou um desenvolvedor de software dedicado, especializado em front-end web e mobile, com foco em React JS e React Native. 🚀
 
 Estou em constante evolução, sempre procurando aprender novas tecnologias, e aprimorar minhas habilidades naquelas que já possuo conhecimento. 🌱
 
-Gosto bastante de videogame, música e aprender novos idiomas. ⚡️
+Gosto bastante de videogame, de música e de aprender novos idiomas. ⚡️
 <br><br>
 📍   São Paulo, SP - Brasil <br>
 
@@ -15,17 +15,21 @@ Gosto bastante de videogame, música e aprender novos idiomas. ⚡️
 ![HTML5](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=32363E)
 
 ![CSharp](https://img.shields.io/badge/CSharp-9B4F97?style=for-the-badge&logo=CSharp&logoColor=67217A)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![.NET](https://img.shields.io/badge/SQL Server-f1f1f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927) <br>
+![SQL Server](https://img.shields.io/badge/SQL Server-f1f1f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927) <br>
 
+<!--
 ## Estatísticas 📃
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=vinixiii&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&theme=buefy" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinixiii&layout=compact&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&langs_count=6&theme=buefy" /> <br>
+-->
 
 ## Onde me encontrar 📫
 
